@@ -3,3 +3,7 @@
 .printLink {
     display: inline-block;
 }
+
+a#linkedin, a#github {
+    display: none;
+}
